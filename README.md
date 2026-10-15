@@ -1,7 +1,5 @@
-![Daniel Rivera — Mechatronics Engineer · AI Engineer](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0A0A0A,100:B91C1C&section=header&reversal=false&text=Daniel+Rivera&textBg=false&fontColor=FFFFFF&fontSize=48&fontAlign=50&fontAlignY=42&rotate=0&strokeWidth=0&desc=Mechatronics+Engineer+-+AI+Engineer&descSize=20&descAlign=50&descAlignY=65)
+# ![Daniel Rivera — Mechatronics Engineer · AI Engineer](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0A0A0A,100:B91C1C&section=header&reversal=false&text=Daniel+Rivera&textBg=false&fontColor=FFFFFF&fontSize=48&fontAlign=50&fontAlignY=42&rotate=0&strokeWidth=0&desc=Mechatronics+Engineer+-+AI+Engineer&descSize=20&descAlign=50&descAlignY=65)
 
-#
-# Welcome to Draxn0919
 ## About
 
 Mechatronics Engineer with a postgraduate specialization in Artificial
@@ -14,14 +12,40 @@ My interests include computer vision, robotics, and applied AI.
 ## Technologies
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" title="C#" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ for Arduino development" title="C++ · Arduino development" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" title="GitHub" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65">
+  <img
+    src="https://techstack-generator.vercel.app/python-icon.svg"
+    alt="Python"
+    width="65"
+    height="65"
+  >
+  <img
+    src="https://techstack-generator.vercel.app/csharp-icon.svg"
+    alt="C#"
+    title="C#"
+    width="65"
+    height="65"
+  >
+  <img
+    src="https://techstack-generator.vercel.app/cpp-icon.svg"
+    alt="C++ for Arduino development"
+    title="C++ · Arduino development"
+    width="65"
+    height="65"
+  >
+  <img
+    src="https://techstack-generator.vercel.app/github-icon.svg"
+    alt="GitHub"
+    title="GitHub"
+    width="65"
+    height="65"
+  >
+  <img
+    src="https://techstack-generator.vercel.app/docker-icon.svg"
+    alt="Docker"
+    width="65"
+    height="65"
+  >
 </p>
-
-#
 
 **AI Agents & Automation**
 
@@ -67,9 +91,7 @@ eye closure in real time, with visual and audio alerts.
 **Technologies:** Python, OpenCV, MediaPipe  
 [Source code](https://github.com/Draxn0919/Dream_Tracker)
 
-### Mini Sumo Robot
-
-<!-- Pending: repository link and verified project description. -->
+<!-- Mini Sumo Robot: pending repository link and project description. -->
 
 ### 4-DOF Writing Robot
 
@@ -93,9 +115,15 @@ writing robot.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danrivera9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square" alt="LinkedIn">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square"
+      alt="LinkedIn"
+    >
   </a>
   <a href="https://moncode.co/">
-    <img src="https://img.shields.io/badge/MonCode-B91C1C?style=flat-square" alt="MonCode">
+    <img
+      src="https://img.shields.io/badge/MonCode-B91C1C?style=flat-square"
+      alt="MonCode"
+    >
   </a>
 </p>
