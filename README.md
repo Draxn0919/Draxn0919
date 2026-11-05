@@ -13,34 +13,34 @@ My interests include computer vision, robotics, and applied AI.
 
 <p align="center">
   <img
-    src="https://techstack-generator.vercel.app/python-icon.svg"
+    src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/1a8656741692dfe08effc82600f4d0d4bb87d420/static/python-icon.svg"
     alt="Python"
     width="65"
     height="65"
   >
   <img
-    src="https://techstack-generator.vercel.app/csharp-icon.svg"
+    src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/1a8656741692dfe08effc82600f4d0d4bb87d420/static/csharp-icon.svg"
     alt="C#"
     title="C#"
     width="65"
     height="65"
   >
   <img
-    src="https://techstack-generator.vercel.app/cpp-icon.svg"
+    src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/1a8656741692dfe08effc82600f4d0d4bb87d420/static/cpp-icon.svg"
     alt="C++ for Arduino development"
     title="C++ · Arduino development"
     width="65"
     height="65"
   >
   <img
-    src="https://techstack-generator.vercel.app/github-icon.svg"
+    src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/1a8656741692dfe08effc82600f4d0d4bb87d420/static/github-icon.svg"
     alt="GitHub"
     title="GitHub"
     width="65"
     height="65"
   >
   <img
-    src="https://techstack-generator.vercel.app/docker-icon.svg"
+    src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/1a8656741692dfe08effc82600f4d0d4bb87d420/static/docker-icon.svg"
     alt="Docker"
     width="65"
     height="65"
@@ -106,7 +106,7 @@ writing robot.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Draxn0919&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=EF4444&icon_color=EF4444&text_color=E5E7EB"
+    src="https://github-stats-extended.vercel.app/api?username=Draxn0919&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=EF4444&icon_color=EF4444&text_color=E5E7EB"
     alt="Draxn0919's GitHub Stats"
   >
 </p>
